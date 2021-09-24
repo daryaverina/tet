@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAirbus", "WindowsFormsAirbus.csproj", "{804770DC-5CB6-402A-8DF2-C38DFDD7DECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804770DC-5CB6-402A-8DF2-C38DFDD7DECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804770DC-5CB6-402A-8DF2-C38DFDD7DECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804770DC-5CB6-402A-8DF2-C38DFDD7DECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804770DC-5CB6-402A-8DF2-C38DFDD7DECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55EBE0C-3846-46FB-91AD-E4D7C9467F15}
+	EndGlobalSection
+EndGlobal
